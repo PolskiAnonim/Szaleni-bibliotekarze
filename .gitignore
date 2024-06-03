@@ -1,0 +1,7 @@
+.
+cmake-*
+build*
+.gradle*
+.idea*
+.history*
+app*
