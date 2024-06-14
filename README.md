@@ -9,6 +9,11 @@ Co pewien czas bibliotekarz autonomicznie decydują, że pewna liczba czytelnik�
 
 MPC co pewien czas wymagają serwisu. Kiedy MPC obsłuży K czytelników, powinien zostać oddany do serwisu. Nierozróżnialni serwisanci, o liczbie S (parametr, S << M ), podejmują się naprawy MPC, po czym MPC wraca do służby. Serwisanci są zasobem, nie aktywnymi procesami, bibliotekarze muszą więc konkurować o dostęp do serwisantów.
 
+# Użyta technologia i biblioteki:
+C++17
+
+OpenMPI
+
 # Opis algorytmu:
 
 # Struktury i zmienne
