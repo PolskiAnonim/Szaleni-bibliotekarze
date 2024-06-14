@@ -1,3 +1,6 @@
+# Kompilacja i uruchomienie
+Do symulacji działania na sieci rozproszonej wykorzystujemy kontenery, które komunikują się każdy z każdym. Do zbudowania go - wystarczy uruchomić program dockerGenerator.sh. Pierwszym argumentem jest liczba kontenerów do utworzenia, drugim jest ścieżka do programu. Kolejne argumenty to argumenty do programu podanego w ścieżce.
+
 # Opis problemu:
 
 Bibliotekarze mają dosyć czytelników oddających książki z opóźnieniem. 
